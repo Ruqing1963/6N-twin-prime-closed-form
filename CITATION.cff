@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "A closed form for the conditional twin-gap distribution on the 6N skeleton: CRT survival factors and an omega-independent tail constant (Part VII)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-02"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-twin-prime-closed-form"
+keywords:
+  - twin primes
+  - prime gaps
+  - Chinese remainder theorem
+  - conditional singular series
+  - closed form
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N twin-prime gap omega-dependence (Part II)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20477664
+  - type: software
+    title: "6N first-order conditional singular series (Part III)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20498668
+  - type: software
+    title: "6N second-order conditional singular series (Part IV)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20500465
+  - type: software
+    title: "6N two-centre shield law (Part V)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20510700
+  - type: software
+    title: "6N bridge theorem (Part VI)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20517990
